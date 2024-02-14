@@ -1,4 +1,5 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbellori729&count_bg=%237E7E7E&title_bg=%23555555&icon=duckduckgo.svg&icon_color=%23E7E7E7&title=Hi%2C+There%21&edge_flat=false)](https://hits.seeyoufarm.com)
+## 👨🏻‍💻 BELLORI
 
 ### 🖐🏻 About me 
 안녕하세요. 프론트엔드 개발자 BELLORI입니다.
