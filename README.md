@@ -6,7 +6,9 @@
 
 [![Email Badge](https://img.shields.io/badge/Email-005FF9?style=flat-square&logo=maildotru&logoColor=white&link=mailto:dhtldka@icloud.com)](mailto:dhtldka@icloud.com)
 
-## Stack
+<details>
+<summary>Stack</summary>
+
 ### Language
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
 
@@ -36,6 +38,9 @@
 
 ### Serverless (BaaS)
 <img src="https://img.shields.io/badge/PocketBase-B8DBE4?style=flat-square&logo=pocketbase&logoColor=white"/>
+</details>
+
+
 
 <!--
 **bellori729/bellori729** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
