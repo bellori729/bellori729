@@ -4,7 +4,10 @@
 안녕하세요. 프론트엔드 개발자 BELLORI입니다.
 <br>
 
+### CONTACT
 [![Email Badge](https://img.shields.io/badge/Email-005FF9?style=flat-square&logo=maildotru&logoColor=white&link=mailto:dhtldka@icloud.com)](mailto:dhtldka@icloud.com)
+[![Kakao Badge](https://img.shields.io/badge/kakaotalk-FFCD00?style=flat-square&logo=kakaotalk&logoColor=white&link=https://open.kakao.com/o/sx8XiO9f)](https://open.kakao.com/o/sx8XiO9f)
+
 
 <details>
 <summary><b>Stack</b></summary>
