@@ -4,7 +4,7 @@
 안녕하세요. 프론트엔드 개발자 BELLORI입니다.
 
 ### 📚 Skill
-학습, 프로젝트, 업무에 사용중 혹은 사용했던 기술들입니다.
+학습, 프로젝트, 업무에 사용 중 혹은 사용했던 기술들입니다.
 |Language|Framework & Library|Writing CSS|CSS Preprocessors|
 |:-:|:-:|:-:|:-:|
 |<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>|<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>|<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>|<img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white"/>|
