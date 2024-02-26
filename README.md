@@ -1,7 +1,7 @@
 # 👨🏻‍💻 BELLORI [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbellori729&count_bg=%237E7E7E&title_bg=%23555555&icon=duckduckgo.svg&icon_color=%23E7E7E7&title=Hi%2C+There%21&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ### 🖐🏻 About Me
-안녕하세요. 주니어 프론트엔드 개발자 BELLORI입니다.<br>
+안녕하세요. 프론트엔드 개발자 BELLORI입니다.<br>
 <!--
 ![Bellori's GitHub stats](https://github-readme-stats.vercel.app/api?username=bellori729&show_icons=true&theme=react)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bellori729&layout=compact)](https://github.com/bellori729/github-readme-stats)
